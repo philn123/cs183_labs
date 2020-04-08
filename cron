@@ -1,0 +1,1 @@
+*/2 * * * * /usr/lab2_3.sh /usr/lab2_1.sh /var/log/cs183/uptime.log >> /var/log/cs183/output.log
